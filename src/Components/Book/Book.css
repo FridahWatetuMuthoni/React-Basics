@@ -1,0 +1,16 @@
+.book-card {
+  height: 350px;
+  width: 30%;
+}
+
+.image-wrapper {
+  height: 50%;
+  width: 100%;
+}
+
+.image-wrapper img {
+  display: block;
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
