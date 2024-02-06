@@ -1,9 +1,9 @@
-import BookList from "./Components/Book/BookList";
+import FetchData from "./components/FetchData/FetchData";
 
 function App() {
   return (
     <div className="container">
-      <BookList />
+      <FetchData />
     </div>
   );
 }
